@@ -1,0 +1,14 @@
+.qrcodeImage {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+.downloadButton {
+  display: flex;
+  justify-content: center;
+}
+
+mat-slider {
+  width: 300px;
+}
